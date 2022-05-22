@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b0a22e9aa1f7d430fbd6f7a5aa925855, type: 3}
+  m_Name: Invincibility
+  m_EditorClassIdentifier: 
+  name: Invincibility
+  description: U don't get dmg wow how original
+  duration: 5
+  effectIconSprite: {fileID: 7630315673339999057, guid: 27666dc3893e5fa4c9186a6d60172a7a, type: 3}

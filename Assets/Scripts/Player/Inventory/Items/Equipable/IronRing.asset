@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 095ca271518236542b3cc64c2d1ff56a, type: 3}
+  m_Name: IronRing
+  m_EditorClassIdentifier: 
+  name: Iron Ring
+  description: A cute looking ring. Not that powerfull tho.
+  icon: {fileID: 2206312778558007071, guid: 0d30ada5a34f02740a6ab45285eacdbe, type: 3}
+  maxStaxkSize: 1
+  sellPrice: 10
+  smelt:
+  - item: {fileID: 11400000, guid: 43a680ec8d921cb3cacf63cfe146d429, type: 2}
+    count: 1
+  maxHelth: 0
+  movementSpeed: 0
+  attackSpeed: -0.1
+  damage: 0
+  type: 1
